@@ -5,5 +5,3 @@ Purpose: Explore linear modeling using the maximum likelihood approach
 Libraries Used: 
   * Matploblib - Generate Plots 
   * NumPy - Implement operations to manipulate data
- 
-  
